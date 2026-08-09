@@ -1,0 +1,9 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"min_format": 4,
+    	"max_format": 999,
+        "supported_formats": {"min_inclusive": 4, "max_inclusive": 999},
+		"description": "§2Bushy Leaves \n§fFor 1.13+ §8By Kryqu"
+	}
+}
