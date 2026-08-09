@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/template_bushy_leaves",
+	"textures": {
+		"bottom": "block/spruce_leaves_bottom",
+		"top": "block/spruce_leaves_top"
+	}
+}
