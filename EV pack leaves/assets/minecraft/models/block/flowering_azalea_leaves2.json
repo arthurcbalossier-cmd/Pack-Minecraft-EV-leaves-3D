@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/template_bushy_leaves",
-	"textures": {
-		"bottom": "block/flowering_azalea_leaves_bottom",
-		"top": "block/flowering_azalea_leaves_top"
-	}
-}
