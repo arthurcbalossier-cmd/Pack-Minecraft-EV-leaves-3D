@@ -1,7 +1,6 @@
 {
-	"parent": "block/template_bushy_leaves",
+	"parent": "block/leaves",
 	"textures": {
-		"bottom": "block/oak_leaves_bottom",
-		"top": "block/oak_leaves_top"
+		"all": "block/oak_leaves"
 	}
 }
