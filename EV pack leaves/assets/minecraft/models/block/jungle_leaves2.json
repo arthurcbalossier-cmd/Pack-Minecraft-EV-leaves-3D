@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/template_bushy_leaves",
+	"parent": "block/template_bushy_leaves",
 	"textures": {
 		"bottom": "block/jungle_leaves_bottom",
 		"top": "block/jungle_leaves_top"
